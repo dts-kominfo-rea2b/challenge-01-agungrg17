@@ -9,6 +9,8 @@ firstUser.gender = "Female";
 
 firstUser.age = 17;
 
+firstUser.email = "monica@dingdong.com";
+
 firstUser.favoriteColor = new Set ();
 firstUser.favoriteColor.add("Yellow");
 firstUser.favoriteColor.add("Pink");
@@ -54,6 +56,8 @@ secondUser.name = "Wendy";
 secondUser.gender = "Male";
 
 secondUser.age = 23;
+
+secondUser.email = "wendy@dingdong.com";
 
 secondUser.favoriteColor = new Set ();
 secondUser.favoriteColor.add("Blue");
